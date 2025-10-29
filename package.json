@@ -4,9 +4,8 @@
   "description": "Password reset page for Renta Premium app",
   "main": "index.html",
   "scripts": {
-    "dev": "http-server . -p 3000",
-    "build": "echo 'Static site - no build needed'",
-    "deploy": "vercel --prod"
+    "build": "echo 'Static site ready'",
+    "start": "echo 'Static site ready'"
   },
   "keywords": [
     "password-reset",
@@ -14,8 +13,5 @@
     "vercel"
   ],
   "author": "Renta Premium",
-  "license": "MIT",
-  "devDependencies": {
-    "http-server": "^14.1.1"
-  }
+  "license": "MIT"
 }
