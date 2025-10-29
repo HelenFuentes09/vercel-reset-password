@@ -1,0 +1,17 @@
+{
+  "name": "renta-premium-password-reset",
+  "version": "1.0.0",
+  "description": "Password reset page for Renta Premium app",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site deployed'"
+  },
+  "keywords": [
+    "password-reset",
+    "supabase",
+    "vercel"
+  ],
+  "author": "Renta Premium",
+  "license": "MIT"
+}
