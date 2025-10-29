@@ -4,8 +4,8 @@
   "description": "Password reset page for Renta Premium app",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Static site - no build needed'",
-    "start": "echo 'Static site deployed'"
+    "build": "echo 'Build completed successfully'",
+    "start": "echo 'Static site ready'"
   },
   "keywords": [
     "password-reset",
@@ -13,5 +13,6 @@
     "vercel"
   ],
   "author": "Renta Premium",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
